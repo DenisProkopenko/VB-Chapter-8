@@ -1,0 +1,27 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\bin\Debug\Baseball Ticket Sales.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\bin\Debug\Baseball Ticket Sales.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\bin\Debug\Baseball Ticket Sales.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\WindowsApplication1.frmBaseballTicketSales.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\Baseball Ticket Sales.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\Baseball Ticket Sales.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\Baseball Ticket Sales.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\obj\x86\Debug\Baseball Ticket Sales.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\obj\x86\Debug\Baseball Ticket Sales.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\obj\x86\Debug\Baseball Ticket Sales.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\bin\Debug\Baseball Ticket Sales.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\bin\Debug\Baseball Ticket Sales.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\bin\Debug\Baseball Ticket Sales.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\obj\x86\Debug\WindowsApplication1.frmBaseballTicketSales.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales - Copy\Baseball Ticket Sales\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\bin\Debug\Baseball Ticket Sales.exe.manifest
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\bin\Debug\Baseball Ticket Sales.application
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\Baseball Ticket Sales.exe.manifest
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Baseball Ticket Sales\Baseball Ticket Sales\obj\x86\Debug\Baseball Ticket Sales.application

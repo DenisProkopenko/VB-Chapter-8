@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Recycling.exe" version="1.0.0.0" publicKeyToken="616834c0a742faad" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="recycling-logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Recycling" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Recycling.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Recycling.exe" size="158208">
+      <assemblyIdentity name="Recycling" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>/D7/HhLSGR4l4CiZRaKdRJyZGOs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="recycling-logo.ico" size="16958">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LxbV7gydZiaAOKeCU+UsUGBZDXs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Denis-PC\Denis" issuerKeyHash="54766cd44dd7d86b96175304fadd428ff34d9146" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>lTEo7kGNPOg+mhFrfbyMq8DKOyo=</DigestValue></Reference></SignedInfo><SignatureValue>ow5mtKrhKrWsTm8BbplxK7erk5PHb1P0Xz8kwcoV9zUkPPOLALKOFSWcYb4msO5PCEvcUT8aIwl44r/YCerpE2nvzTlvuW6x3CiNzdhhfrVN6i8EY7OAI8ZJx4uY0fKo/f6QXEpaZ+F5tQebfLUtPKCz7zThrdCimjZu3l4GTVk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vPpFYRZCatnuWsb5ujpG5JBAYO+KjV1n+RJ6eqCdyAnqc7TtUqXHhu44Ncp7dtkIGRnMxw/G6A3haR/nqFZ+yNFiIevJy3hOhMAe75L9G76hMWXGthBCvgD7glwUXoTbUzSUMfNVzfcC6/fFIp6e0ofcCjTKcgHQVejFVZoECS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2a3bcac0ab8cbc7d6b119a3ee83c8d41ee283195" Description="" Url=""><as:assemblyIdentity name="Recycling.exe" version="1.0.0.0" publicKeyToken="616834c0a742faad" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Denis-PC\Denis</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AzXHSwIgz2/5KHUmsoCVRni5yAk=</DigestValue></Reference></SignedInfo><SignatureValue>Y6ZNba4sLnQ+PJBpitBTk1svodaILuBT0U46vOmC56/70kuJYcvR6kjYps52RgiVMi7HL6isp5PNg2b61FZOpvlf/7xQRI4ECgAfq7T8/tp3MHV413oFkD9EB/ZNQFjAlHCX4+sRutw0I8OvXObAiIV3Vzf16hrr5z+nK5IU5w0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vPpFYRZCatnuWsb5ujpG5JBAYO+KjV1n+RJ6eqCdyAnqc7TtUqXHhu44Ncp7dtkIGRnMxw/G6A3haR/nqFZ+yNFiIevJy3hOhMAe75L9G76hMWXGthBCvgD7glwUXoTbUzSUMfNVzfcC6/fFIp6e0ofcCjTKcgHQVejFVZoECS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQIfTt3g/Uy65KpghSt8jKhDANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwARABlAG4AaQBzAC0AUABDAFwARABlAG4AaQBzMB4XDTEzMTEyMzA4NTEwMFoXDTE0MTEyMzE0NTEwMFowJzElMCMGA1UEAx4cAEQAZQBuAGkAcwAtAFAAQwBcAEQAZQBuAGkAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvPpFYRZCatnuWsb5ujpG5JBAYO+KjV1n+RJ6eqCdyAnqc7TtUqXHhu44Ncp7dtkIGRnMxw/G6A3haR/nqFZ+yNFiIevJy3hOhMAe75L9G76hMWXGthBCvgD7glwUXoTbUzSUMfNVzfcC6/fFIp6e0ofcCjTKcgHQVejFVZoECS0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQAenZ6aKeFE5XtLBu3lTqkL3lJ0yqk3tfRzGSqRzdP1qhj6mnZUggES6wptoxvo4u09b+NIImDDm+FKC0C9LDzPY7i1rR7ykomkwI3outB8EdxgOtB+DHf59rXA7pzdpvqOAui7ri/cKduv13J1g9H+8IAMhZ6pki04goRldSavSA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

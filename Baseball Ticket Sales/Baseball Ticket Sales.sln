@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Baseball Ticket Sales", "Baseball Ticket Sales\Baseball Ticket Sales.vbproj", "{A68EF9DF-533C-4897-975B-AE8A2D77A80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68EF9DF-533C-4897-975B-AE8A2D77A80E}.Debug|x86.ActiveCfg = Debug|x86
+		{A68EF9DF-533C-4897-975B-AE8A2D77A80E}.Debug|x86.Build.0 = Debug|x86
+		{A68EF9DF-533C-4897-975B-AE8A2D77A80E}.Release|x86.ActiveCfg = Release|x86
+		{A68EF9DF-533C-4897-975B-AE8A2D77A80E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\Ocesn Tours.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\Ocesn Tours.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\Ocesn Tours.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\WindowsApplication1.frmTours.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\bin\Debug\Ocesn Tours.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\bin\Debug\Ocesn Tours.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 8\Ocean Tours\Ocesn Tours\bin\Debug\Ocesn Tours.xml
